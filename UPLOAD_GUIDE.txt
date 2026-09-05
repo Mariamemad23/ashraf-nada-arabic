@@ -1,0 +1,14 @@
+READY TO UPLOAD
+===============
+
+This ZIP has index.html at the first/root level.
+Upload this ZIP directly to Cloudflare Pages.
+
+After opening the ZIP, you should immediately see:
+- index.html
+- style.css
+- script.js
+- images/
+- music/
+
+Do not place these files inside another folder before uploading.
